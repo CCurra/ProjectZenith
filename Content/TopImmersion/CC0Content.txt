@@ -1,0 +1,7 @@
+We used open domain (CC0) content to make this possible:
+
+Coin sound from OpenGameArt: https://opengameart.org/content/10-8bit-coin-sounds
+Rock texture from CC0Textures: https://cc0textures.com/post/171518336021/rock-03
+Smear texture from CC0Textures: https://cc0textures.com/post/175396125552/smear-06-8k
+Hook hit sound from OpenGameArt: https://opengameart.org/content/ice-breakingshattering
+Rope reel sound from ZapSplat: https://www.zapsplat.com/music/length-of-old-rope-pull-rub-over-wooden-beam-joist-3/
